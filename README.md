@@ -1,6 +1,6 @@
 # This Project is moved to weexteam/weex-pack
 
-The idea of developing Weex packaging tools was originally proposed by [Icemic/weex-buildtool](https://github.com/Icemic/weex-buildtool), in order to respect their ideas, the project is forked from it, and create an "orphan" branch before writing, haven't use the code in the original project. **Now the project has been moved to [weexteam/weex-pack](https://github.com/weexteam/weex-pack).**
+The idea of developing Weex packaging tools was originally proposed by [Icemic/weex-buildtool](https://github.com/Icemic/weex-buildtool). In order to respect their ideas, the project is forked from it, and create an "orphan" branch before writing, haven't use the code in the original project. **Now the project has been moved to [weexteam/weex-pack](https://github.com/weexteam/weex-pack).**
 
 # 项目已经迁移到了 weexteam/weex-pack
 
@@ -9,7 +9,7 @@ The idea of developing Weex packaging tools was originally proposed by [Icemic/w
 [}]: #
 [{]: <region> (footer)
 [{]: <helper> (nav_step)
-| [weexteam/weex-pack >](manuals/views/step1.md) |
+| [weexteam/weex-pack >](https://github.com/weexteam/weex-pack) |
 |----------------------:|
 [}]: #
 [}]: #
